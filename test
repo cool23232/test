@@ -116,7 +116,7 @@ print("✅ getcustomasset")
 wait(-1)
 print("✅ setfpscap • 63fps @60 • 122fps @0")
 wait(-1)
-print("✅ request • User-Agent: Ro-Script")
+print("✅ request • User-Agent: ch/1.0.2.3")
 print("\n")
 
 
